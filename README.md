@@ -1,5 +1,5 @@
 
-# Allstate Job Scraper
+# Alphapointe Job Data Scraper
 
 This script based on property data scrap from http://alphapointe.hrmdirect.com/employment/job-openings.php?search=true&
 
